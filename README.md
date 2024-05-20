@@ -34,7 +34,7 @@
 
 
 ### About Me :
-I am a Frontend Software Developer from Belarus. I have dual citizenship of Belarus and Russia.
+I am a Frontend Software Developer from Belarus.
 - I mainly develop new functionality, maintain the current code base, and lead the epic global refactoring of the project..
 
 - I also do internships, interviews, code reviews, and deploy patches and releases. 
