@@ -7,7 +7,7 @@
 </br>
 
 <div id="badges" align="center">
-  <a href="tlgg.ru/sarterion">
+  <a href="https://t.me/sarterion">
     <img src="https://img.shields.io/badge/telegram-royalblue?style=for-the-badge&logo=telegram&logoColor=white" 
     alt="Telegram Badge"/>
   </a>
